@@ -1,0 +1,12 @@
+.listBox {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 30px;
+}
+.list {
+  border: 1px solid rgba(6, 6, 6, 0.836);
+  width: 383px;
+  padding: 10px;
+  border-radius: 10px;
+}

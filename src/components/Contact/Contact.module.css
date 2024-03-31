@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  text-align: left;
+}
+
+.btn {
+  height: 37px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto 0 auto auto;
+}
+
+.phoneIcon {
+  margin-right: 10px;
+}
